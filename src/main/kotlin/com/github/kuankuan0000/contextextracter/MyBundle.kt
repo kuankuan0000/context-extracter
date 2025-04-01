@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.kuankuan0000.contextextracter
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
